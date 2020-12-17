@@ -5,6 +5,7 @@ ipheth (1.0-6) UNRELEASED; urgency=medium
   * Set debhelper-compat version in Build-Depends.
   * Change priority extra to priority optional.
   * Set upstream metadata fields: Repository, Repository-Browse.
+  * Update watch file format version to 4.
 
  -- Debian Janitor <janitor@jelmer.uk>  Tue, 28 Apr 2020 18:25:57 +0000
 
